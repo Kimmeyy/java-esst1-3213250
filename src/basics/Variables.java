@@ -9,7 +9,7 @@ public class Variables {
         System.out.println(x);
 
         int theAnswer = 42;
-        System.out.println(x);
+        System.out.println(theAnswer);
 
         int waterBoilingPointCelsius = 100;
 
