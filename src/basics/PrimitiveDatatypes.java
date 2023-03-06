@@ -4,6 +4,9 @@ public class PrimitiveDatatypes {
 
     public static void main(String[] args) {
 
+        // Java Virtual Machine (JVM): Java wird nicht direkt vom PC ausgeführt, sondern erst in Bytecode kompiliert/
+        // übersetzt, der dann von der JVM ausgeführt wird. Somit wird Java plattformunabhängig.
+
         // 32-bit signed (2^31 - 1)
         int i = 4711;
 

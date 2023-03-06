@@ -18,6 +18,7 @@ public class IntegerArithmetic {
         int division = 42 / 2;
         System.out.println(division);
 
+        //wegen int wird das Ergebnis zu einer Ganzzahl (2)
         int unexpectedDivision = 5 / 2;
         System.out.println(unexpectedDivision);
 

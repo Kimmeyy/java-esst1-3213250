@@ -14,7 +14,7 @@ public class FloatingPointArithmetic {
 
         System.out.println(2.5 + 0.5);
 
-        // unexpected effects
+        // unexpected effects, float ist ungenau
         System.out.println(10.0f - 0.1f - 0.1f);
         System.out.println(10000.0f + 0.0001f);
 

@@ -5,7 +5,9 @@ public class Comments {
     public static void main(String[] args) {
         // Single line comment
 
-        int x; // Comment after some code
+        int x=2; // Comment after some code
+        // write 'sout' then push 'tab'
+        System.out.println(x);
 
         /*
          * Multiline comment.
