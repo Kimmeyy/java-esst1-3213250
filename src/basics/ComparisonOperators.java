@@ -6,6 +6,7 @@ public class ComparisonOperators {
         int x = 1;
         int y = 2;
 
+        // Duplicate line with command+D
         System.out.println(x == y);
         System.out.println(x != y);
 
