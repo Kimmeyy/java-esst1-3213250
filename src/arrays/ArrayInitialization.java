@@ -5,6 +5,7 @@ public class ArrayInitialization {
     public static void main(String[] args) {
         int[] myArray;
         myArray = new int[5];
+        //alternative: int[] myArray = new int[5];
 
         double[] myDoubleArray = new double[100];
 

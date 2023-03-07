@@ -15,7 +15,7 @@ public class ArrayIteration {
             System.out.println(heroes[i]);
         }
 
-        // extended for-statement / foreach-loop
+        // extended for-statement / foreach-loop, more comfortable
         for (String h : heroes) {
             System.out.println(h);
         }

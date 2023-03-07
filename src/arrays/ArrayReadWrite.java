@@ -21,6 +21,7 @@ public class ArrayReadWrite {
         myArray[1] = 99;
 
         System.out.println(myArray[1]);
+        //Arrays können nicht ohne Funktion ausgelesen werden, es wird nur die Speicheradresse innerhalb der JVM ausgegeben
         System.out.println(myArray);
 
         // print an array in human-readable form
